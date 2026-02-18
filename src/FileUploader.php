@@ -60,7 +60,7 @@ class FileUploader
         return $result;
     }
     
-        /**
+    /**
      * Загрузит один файл
      * 
      * @param string $tmpFileName

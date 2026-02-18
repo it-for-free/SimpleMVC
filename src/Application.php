@@ -262,8 +262,6 @@ class Application
         } else {
             return self::getConfigElement(implode('.', $pathToTheDesiredElement));
         }
-        
-            
     }
     
     /*
