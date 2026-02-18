@@ -7,6 +7,7 @@ use ItForFree\SimpleMVC\Exceptions\SmvcUsageException;
 use ItForFree\SimpleMVC\Exceptions\SmvcConfigException;
 use ItForFree\rusphp\PHP\Object\ObjectFactory;
 use ItForFree\rusphp\PHP\ArrayLib\Structure;
+use ItForFree\SimpleMVC\Exceptions\SmvcCoreException;
 
 /**
  * Класс-"точка входа" для работы фреймворка SimpleMVC
